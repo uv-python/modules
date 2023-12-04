@@ -9,3 +9,10 @@ E.g.
 ```
 pip3 install https://github.com/uv-python/modules/raw/main/modules/dyn_dispatch-0.3-py3-none-any.whl
 ```
+Urls can be added directly inside `requirements.txt` files:
+
+```
+...
+# dyn_dispatch version 0.3
+https://github.com/uv-python/modules/raw/main/modules/dyn_dispatch-0.3-py3-none-any.whl
+```
